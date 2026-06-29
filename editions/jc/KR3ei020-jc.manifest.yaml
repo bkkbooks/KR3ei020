@@ -1,0 +1,4210 @@
+canonical_identifier: bkk:krp/KR3ei020/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ei020/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 女科秘要
+  identifiers:
+    krp: KR3ei020
+  tags:
+    kr-categories: KR3ei
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei020.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ei020_000-jc.yaml, hash: 'sha256:cdcc2f27d61a2dd17305a47938991252ed7f36ccb229b7a15b711ffbefd24a58'}
+  - {seq: 1, filename: KR3ei020_001-jc.yaml, hash: 'sha256:04db03db520d892ed0a534afbe8f97fddfee9414c3521380f9ce6b32d9c83040'}
+  - {seq: 2, filename: KR3ei020_002-jc.yaml, hash: 'sha256:cda61ca279fb5b337de27534ed3505b95e6682816cee7d1310369513a27bc6f0'}
+  - {seq: 3, filename: KR3ei020_003-jc.yaml, hash: 'sha256:0b6d48890fc1d13c88a8a28755ba7ae451350bc29ace3b0d835cadac74648c8f'}
+  - {seq: 4, filename: KR3ei020_004-jc.yaml, hash: 'sha256:61bbb728d692f859be4cab0a605eddd876f43049cde80bb56944a98685d245b8'}
+  - {seq: 5, filename: KR3ei020_005-jc.yaml, hash: 'sha256:f0956a2166e71048958f6ab92b40ba6aa8a16e7cbef0b6b6617b4aa26f386fe6'}
+  - {seq: 6, filename: KR3ei020_006-jc.yaml, hash: 'sha256:483b0f45b8f630eae8bd093769508d154505646b69ae8040d826b966d152699a'}
+  - {seq: 7, filename: KR3ei020_007-jc.yaml, hash: 'sha256:149c457e84d94f17462609b1676e8f8996240777141cbfafb4584de6675836ef'}
+  - {seq: 8, filename: KR3ei020_008-jc.yaml, hash: 'sha256:8c37366b1780b1fd33480d1dd7af3f2b88c9a847030629f30a2e50ad337a1069'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ei020_000-jc.markers.yaml, hash: 'sha256:451b571411e7c6afa3210f735daa2597aa34bb5ab2984f3b8642bf0f04c3bd6d'}
+  - {seq: 1, role: markers, filename: assets/KR3ei020_001-jc.markers.yaml, hash: 'sha256:d1c7e3b4077dd064d3d34c258e79f423d975b438a9d4a485341400f67b45c7eb'}
+  - {seq: 2, role: markers, filename: assets/KR3ei020_002-jc.markers.yaml, hash: 'sha256:52fef77fb23b400dc7ac2ebc0016d1cd0290370bc7112ecbd9b39733a5d193b1'}
+  - {seq: 3, role: markers, filename: assets/KR3ei020_003-jc.markers.yaml, hash: 'sha256:3a5380b44b86013d5e2c5fe5b1772b003ecc2883d0fce927c8c2bf60a7acd060'}
+  - {seq: 4, role: markers, filename: assets/KR3ei020_004-jc.markers.yaml, hash: 'sha256:8b13d9921969bba84d2a0187f868f8c02508619f9af866091db53e6f12c4a959'}
+  - {seq: 5, role: markers, filename: assets/KR3ei020_005-jc.markers.yaml, hash: 'sha256:3376b703306459d26c2fa27c275184fba80a6f9b330f0ce5edefa27cef4407aa'}
+  - {seq: 6, role: markers, filename: assets/KR3ei020_006-jc.markers.yaml, hash: 'sha256:04aa2d5f25fc16d66b08a7e1368824b4e5a4abd8e0febff8c22f49409a846896'}
+  - {seq: 7, role: markers, filename: assets/KR3ei020_007-jc.markers.yaml, hash: 'sha256:5fc29477a96240a7c1f403763074a726d25d8ca03895315353b121a33aa3d1d4'}
+  - {seq: 8, role: markers, filename: assets/KR3ei020_008-jc.markers.yaml, hash: 'sha256:849f40a00b94ea615de28a605bf2b7fb4bcc219a32b58f33cf9a23318f2a9647'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ei020_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 292
+  label: 敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei020_jc_000-d3.h1s1
+    span:
+    - body
+    - 292
+    - 541
+  label: 敘
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 3884
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d2
+    span:
+    - body
+    - 2
+    - 183
+  label: 脈法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d3
+    span:
+    - body
+    - 183
+    - 216
+  label: 辨男女脈法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d4
+    span:
+    - body
+    - 216
+    - 268
+  label: 調經
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d5
+    span:
+    - body
+    - 268
+    - 382
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d6
+    span:
+    - body
+    - 382
+    - 453
+  label: 經閉
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d7
+    span:
+    - body
+    - 453
+    - 539
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d8
+    span:
+    - body
+    - 539
+    - 612
+  label: 崩漏
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d9
+    span:
+    - body
+    - 612
+    - 712
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d10
+    span:
+    - body
+    - 712
+    - 775
+  label: 赤白帶
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d11
+    span:
+    - body
+    - 775
+    - 890
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d11d4
+    span:
+    - body
+    - 833
+    - 890
+  label: 伏龍肝散
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d12
+    span:
+    - body
+    - 890
+    - 927
+  label: 安胎
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d13
+    span:
+    - body
+    - 927
+    - 1191
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d13d4
+    span:
+    - body
+    - 971
+    - 1064
+  label: 安胎散
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d13d5
+    span:
+    - body
+    - 1064
+    - 1085
+  label: 參蘇飲
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d13d6
+    span:
+    - body
+    - 1085
+    - 1135
+  label: 歸脾湯
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d13d7
+    span:
+    - body
+    - 1135
+    - 1191
+  label: 四七湯
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d14
+    span:
+    - body
+    - 1191
+    - 1252
+  label: 漏胎
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d15
+    span:
+    - body
+    - 1252
+    - 1310
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d16
+    span:
+    - body
+    - 1310
+    - 1357
+  label: 胎痛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d17
+    span:
+    - body
+    - 1357
+    - 1415
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d18
+    span:
+    - body
+    - 1415
+    - 1494
+  label: 惡阻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d19
+    span:
+    - body
+    - 1494
+    - 1717
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d19d4
+    span:
+    - body
+    - 1552
+    - 1589
+  label: 半夏湯
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d19d5
+    span:
+    - body
+    - 1589
+    - 1641
+  label: 茯苓丸
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d19d6
+    span:
+    - body
+    - 1641
+    - 1675
+  label: 半夏伏苓湯
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d19d7
+    span:
+    - body
+    - 1675
+    - 1717
+  label: 回春方
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d20
+    span:
+    - body
+    - 1717
+    - 1797
+  label: 胎腫
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d21
+    span:
+    - body
+    - 1797
+    - 1827
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d22
+    span:
+    - body
+    - 1827
+    - 1891
+  label: 子煩
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d23
+    span:
+    - body
+    - 1891
+    - 2016
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d23d4
+    span:
+    - body
+    - 1921
+    - 1946
+  label: 犀角散
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d23d5
+    span:
+    - body
+    - 1946
+    - 2016
+  label: 竹葉湯
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d24
+    span:
+    - body
+    - 2016
+    - 2069
+  label: 子癇
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d25
+    span:
+    - body
+    - 2069
+    - 2144
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d25d4
+    span:
+    - body
+    - 2099
+    - 2144
+  label: 羚羊角散
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d26
+    span:
+    - body
+    - 2144
+    - 2165
+  label: 子懸
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d27
+    span:
+    - body
+    - 2165
+    - 2277
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d27d4
+    span:
+    - body
+    - 2195
+    - 2277
+  label: 紫蘇散
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d28
+    span:
+    - body
+    - 2277
+    - 2334
+  label: 子淋
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d29
+    span:
+    - body
+    - 2334
+    - 2396
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d29d4
+    span:
+    - body
+    - 2364
+    - 2396
+  label: 安榮散
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d30
+    span:
+    - body
+    - 2396
+    - 2438
+  label: 胎死上喘
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d31
+    span:
+    - body
+    - 2438
+    - 2511
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d31d4
+    span:
+    - body
+    - 2468
+    - 2511
+  label: 黑神散
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d32
+    span:
+    - body
+    - 2511
+    - 2524
+  label: 難產橫生
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d33
+    span:
+    - body
+    - 2524
+    - 2600
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d33d4
+    span:
+    - body
+    - 2554
+    - 2600
+  label: 如聖散
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d34
+    span:
+    - body
+    - 2600
+    - 2627
+  label: 胎衣不下
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d35
+    span:
+    - body
+    - 2627
+    - 2812
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d35d4
+    span:
+    - body
+    - 2685
+    - 2722
+  label: 奪命丹
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d35d5
+    span:
+    - body
+    - 2722
+    - 2764
+  label: 牛膝湯
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d35d6
+    span:
+    - body
+    - 2764
+    - 2812
+  label: 又方
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d36
+    span:
+    - body
+    - 2812
+    - 2854
+  label: 產後寒熱
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d37
+    span:
+    - body
+    - 2854
+    - 2968
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d38
+    span:
+    - body
+    - 2968
+    - 3014
+  label: 產後血暈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d39
+    span:
+    - body
+    - 3014
+    - 3044
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d40
+    span:
+    - body
+    - 3044
+    - 3080
+  label: 產後中風
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d41
+    span:
+    - body
+    - 3080
+    - 3203
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d41d4
+    span:
+    - body
+    - 3110
+    - 3135
+  label: 愈風湯
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d41d5
+    span:
+    - body
+    - 3135
+    - 3162
+  label: 又方
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d41d6
+    span:
+    - body
+    - 3162
+    - 3203
+  label: 續命湯
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d42
+    span:
+    - body
+    - 3203
+    - 3225
+  label: 宿血腫脹
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d43
+    span:
+    - body
+    - 3225
+    - 3312
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d43d4
+    span:
+    - body
+    - 3283
+    - 3312
+  label: 琥珀散
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d44
+    span:
+    - body
+    - 3312
+    - 3332
+  label: 產後腹痛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d45
+    span:
+    - body
+    - 3332
+    - 3451
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d45d4
+    span:
+    - body
+    - 3390
+    - 3436
+  label: 聚寶丹
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d45d5
+    span:
+    - body
+    - 3436
+    - 3451
+  label: 失笑散
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d46
+    span:
+    - body
+    - 3451
+    - 3463
+  label: 半產
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d47
+    span:
+    - body
+    - 3463
+    - 3552
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d47d4
+    span:
+    - body
+    - 3493
+    - 3552
+  label: 全生活命湯
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d48
+    span:
+    - body
+    - 3552
+    - 3588
+  label: 陰戶脫
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d49
+    span:
+    - body
+    - 3588
+    - 3618
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d50
+    span:
+    - body
+    - 3618
+    - 3628
+  label: 惡血入心
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d51
+    span:
+    - body
+    - 3628
+    - 3694
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d51d4
+    span:
+    - body
+    - 3658
+    - 3694
+  label: 七珍散
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d52
+    span:
+    - body
+    - 3694
+    - 3706
+  label: 惡血入脾
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d53
+    span:
+    - body
+    - 3706
+    - 3765
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d53d4
+    span:
+    - body
+    - 3736
+    - 3765
+  label: 抵聖湯
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d54
+    span:
+    - body
+    - 3765
+    - 3785
+  label: 惡血入肺
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d55
+    span:
+    - body
+    - 3785
+    - 3815
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d56
+    span:
+    - body
+    - 3815
+    - 3832
+  label: 惡血入肝
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4d57
+    span:
+    - body
+    - 3832
+    - 3884
+  label: 主意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei020_jc_001-d4.d57d4
+    span:
+    - body
+    - 3862
+    - 3884
+  label: 丹皮散
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.h1s1
+    span:
+    - body
+    - 0
+    - 2783
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d2
+    span:
+    - body
+    - 2
+    - 79
+  label: 胎前惡阻
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d2d4
+    span:
+    - body
+    - 41
+    - 79
+  label: 和氣散
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d3
+    span:
+    - body
+    - 79
+    - 132
+  label: 胎前潮熱氣痛
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d3d4
+    span:
+    - body
+    - 106
+    - 132
+  label: 五苓散
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d4
+    span:
+    - body
+    - 132
+    - 189
+  label: 胎前寒熱
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d4d4
+    span:
+    - body
+    - 165
+    - 189
+  label: 草果飲
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d5
+    span:
+    - body
+    - 189
+    - 325
+  label: 孩兒攻心
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d5d4
+    span:
+    - body
+    - 261
+    - 299
+  label: 調中和氣散
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d5d5
+    span:
+    - body
+    - 299
+    - 325
+  label: 勝紅丸
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d6
+    span:
+    - body
+    - 325
+    - 394
+  label: 胎前氣急不得臥
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d6d4
+    span:
+    - body
+    - 352
+    - 394
+  label: 紫蘇安胎散
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d7
+    span:
+    - body
+    - 394
+    - 454
+  label: 胎前咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d7d4
+    span:
+    - body
+    - 417
+    - 454
+  label: 五虎湯
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d8
+    span:
+    - body
+    - 454
+    - 521
+  label: 胎前衄血
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d8d4
+    span:
+    - body
+    - 489
+    - 521
+  label: 衄血丸
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d9
+    span:
+    - body
+    - 521
+    - 575
+  label: 胎前泄痢
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d10
+    span:
+    - body
+    - 575
+    - 647
+  label: 胎前漏紅
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d10d4
+    span:
+    - body
+    - 596
+    - 647
+  label: 小烏金丸
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d11
+    span:
+    - body
+    - 647
+    - 695
+  label: 胎前赤帶
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d11d4
+    span:
+    - body
+    - 673
+    - 695
+  label: 側柏丸
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d12
+    span:
+    - body
+    - 695
+    - 754
+  label: 胎前白帶
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d12d4
+    span:
+    - body
+    - 713
+    - 725
+  label: 梨花酒
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d12d5
+    span:
+    - body
+    - 725
+    - 754
+  label: 閉白丸
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d13
+    span:
+    - body
+    - 754
+    - 815
+  label: 胎前氣緊咳嗽動紅
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d14
+    span:
+    - body
+    - 815
+    - 909
+  label: 胎前動紅
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d14d4
+    span:
+    - body
+    - 875
+    - 909
+  label: 安胎散
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d15
+    span:
+    - body
+    - 909
+    - 940
+  label: 胎前小便不通
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d16
+    span:
+    - body
+    - 940
+    - 989
+  label: 胎前大便不通
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d16d4
+    span:
+    - body
+    - 973
+    - 989
+  label: 大黃湯
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d17
+    span:
+    - body
+    - 989
+    - 1045
+  label: 胎前半產
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d17d4
+    span:
+    - body
+    - 1019
+    - 1045
+  label: 益母丸
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d18
+    span:
+    - body
+    - 1045
+    - 1088
+  label: 胎前怔忡
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d18d4
+    span:
+    - body
+    - 1069
+    - 1088
+  label: 硃砂湯
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d19
+    span:
+    - body
+    - 1088
+    - 1137
+  label: 胎前浮腫
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d19d4
+    span:
+    - body
+    - 1110
+    - 1137
+  label: 大腹皮湯
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d20
+    span:
+    - body
+    - 1137
+    - 1163
+  label: 胎前陰門腫
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d20d4
+    span:
+    - body
+    - 1151
+    - 1163
+  label: 安胎順血散
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d21
+    span:
+    - body
+    - 1163
+    - 1202
+  label: 胎前遍身痠懶
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d22
+    span:
+    - body
+    - 1202
+    - 1260
+  label: 胎前下血
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d23
+    span:
+    - body
+    - 1260
+    - 1286
+  label: 胎前腳痛
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d24
+    span:
+    - body
+    - 1286
+    - 1402
+  label: 胎前中風
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d24d4
+    span:
+    - body
+    - 1332
+    - 1351
+  label: 黃蠟丸
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d24d5
+    span:
+    - body
+    - 1351
+    - 1402
+  label: 排風散
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d25
+    span:
+    - body
+    - 1402
+    - 1432
+  label: 胎前癱瘓
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d26
+    span:
+    - body
+    - 1432
+    - 1481
+  label: 胎前腰痛
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d26d4
+    span:
+    - body
+    - 1455
+    - 1481
+  label: 豬腎丸
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d27
+    span:
+    - body
+    - 1481
+    - 1548
+  label: 胎前頭痛
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d27d4
+    span:
+    - body
+    - 1511
+    - 1548
+  label: 芎芷湯
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d28
+    span:
+    - body
+    - 1548
+    - 1623
+  label: 胎前泄瀉
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d28d4
+    span:
+    - body
+    - 1579
+    - 1623
+  label: 藿香正氣散
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d29
+    span:
+    - body
+    - 1623
+    - 1687
+  label: 胎前心痛
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d29d4
+    span:
+    - body
+    - 1640
+    - 1665
+  label: 順氣手拈散
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d29d5
+    span:
+    - body
+    - 1665
+    - 1687
+  label: 又方
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d30
+    span:
+    - body
+    - 1687
+    - 1727
+  label: 胎前昏迷
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d31
+    span:
+    - body
+    - 1727
+    - 1769
+  label: 胎前大便虛急
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d31d4
+    span:
+    - body
+    - 1756
+    - 1769
+  label: 一枳湯
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d32
+    span:
+    - body
+    - 1769
+    - 1804
+  label: 胎前遍體瘙癢
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d33
+    span:
+    - body
+    - 1804
+    - 1860
+  label: 胎前陰門癢
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d33d4
+    span:
+    - body
+    - 1831
+    - 1860
+  label: 川椒白芷散
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d34
+    span:
+    - body
+    - 1860
+    - 1929
+  label: 胎前濕熱不化陰門癢
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d35
+    span:
+    - body
+    - 1929
+    - 1958
+  label: 胎前乳腫
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d35d4
+    span:
+    - body
+    - 1946
+    - 1958
+  label: 皂角散
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d36
+    span:
+    - body
+    - 1958
+    - 2009
+  label: 胎前咽痛
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d36d4
+    span:
+    - body
+    - 1981
+    - 2009
+  label: 升麻桔梗湯
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d37
+    span:
+    - body
+    - 2009
+    - 2066
+  label: 胎前消渴
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d37d4
+    span:
+    - body
+    - 2023
+    - 2066
+  label: 加味四物湯
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d38
+    span:
+    - body
+    - 2066
+    - 2086
+  label: 胎前耳鳴
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d39
+    span:
+    - body
+    - 2086
+    - 2126
+  label: 胎前潮熱不退
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d40
+    span:
+    - body
+    - 2126
+    - 2290
+  label: 臨產胎不降生
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d40d4
+    span:
+    - body
+    - 2165
+    - 2195
+  label: 益母散
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d40d5
+    span:
+    - body
+    - 2195
+    - 2290
+  label: 秘傳難產方
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d41
+    span:
+    - body
+    - 2290
+    - 2369
+  label: 死胎不下
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d41d4
+    span:
+    - body
+    - 2340
+    - 2369
+  label: 斬爛散
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d42
+    span:
+    - body
+    - 2369
+    - 2411
+  label: 胎衣不下
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d42d4
+    span:
+    - body
+    - 2396
+    - 2411
+  label: 破靈丹
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d43
+    span:
+    - body
+    - 2411
+    - 2453
+  label: 產後血氣痛
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d44
+    span:
+    - body
+    - 2453
+    - 2500
+  label: 產後血盡作痛
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d45
+    span:
+    - body
+    - 2500
+    - 2534
+  label: 產後惡露發熱
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d46
+    span:
+    - body
+    - 2534
+    - 2580
+  label: 產後咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d46d4
+    span:
+    - body
+    - 2547
+    - 2580
+  label: 小青龍湯
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d47
+    span:
+    - body
+    - 2580
+    - 2609
+  label: 產後子宮突出
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d48
+    span:
+    - body
+    - 2609
+    - 2650
+  label: 產後瘕疸突出
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5.d48d4
+    span:
+    - body
+    - 2629
+    - 2650
+  label: 連翹散
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d49
+    span:
+    - body
+    - 2650
+    - 2705
+  label: 產後一月惡露重來
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d50
+    span:
+    - body
+    - 2705
+    - 2734
+  label: 產後氣急
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d51
+    span:
+    - body
+    - 2734
+    - 2758
+  label: 產後舌黑
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei020_jc_002-d5d52
+    span:
+    - body
+    - 2758
+    - 2783
+  label: 產後譫語
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 3567
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d2
+    span:
+    - body
+    - 2
+    - 160
+  label: 月經前期
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d2d4
+    span:
+    - body
+    - 57
+    - 99
+  label: 黃芩散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d2d5
+    span:
+    - body
+    - 99
+    - 160
+  label: 調經丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d3
+    span:
+    - body
+    - 160
+    - 314
+  label: 月經後期
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d3d4
+    span:
+    - body
+    - 211
+    - 248
+  label: 理經四物湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d3d5
+    span:
+    - body
+    - 248
+    - 314
+  label: 內補當歸丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d4
+    span:
+    - body
+    - 314
+    - 431
+  label: 月經或前或後
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d4d4
+    span:
+    - body
+    - 370
+    - 431
+  label: 紫金丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d5
+    span:
+    - body
+    - 431
+    - 630
+  label: 血虛發熱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d5d4
+    span:
+    - body
+    - 511
+    - 559
+  label: 逍遙散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d5d5
+    span:
+    - body
+    - 559
+    - 630
+  label: 紫菀湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d6
+    span:
+    - body
+    - 630
+    - 763
+  label: 血閉發熱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d7
+    span:
+    - body
+    - 763
+    - 842
+  label: 行經氣痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d7d4
+    span:
+    - body
+    - 802
+    - 842
+  label: 紅花當歸散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d8
+    span:
+    - body
+    - 842
+    - 944
+  label: 經來不止
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d8d4
+    span:
+    - body
+    - 908
+    - 944
+  label: 金狗散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d9
+    span:
+    - body
+    - 944
+    - 1015
+  label: 經來如黃泥水
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d9d4
+    span:
+    - body
+    - 979
+    - 1015
+  label: 加味四物湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d10
+    span:
+    - body
+    - 1015
+    - 1118
+  label: 經來如銅綠水
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d10d4
+    span:
+    - body
+    - 1054
+    - 1118
+  label: 烏雞丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d11
+    span:
+    - body
+    - 1118
+    - 1159
+  label: 經來全白色
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d12
+    span:
+    - body
+    - 1159
+    - 1207
+  label: 經來成塊如蔥白色
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d13
+    span:
+    - body
+    - 1207
+    - 1335
+  label: 經來臭如夏月腐
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d13d4
+    span:
+    - body
+    - 1265
+    - 1304
+  label: 龍骨丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d13d5
+    span:
+    - body
+    - 1304
+    - 1335
+  label: 湯藥方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d14
+    span:
+    - body
+    - 1335
+    - 1420
+  label: 經來如魚髓
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d14d4
+    span:
+    - body
+    - 1373
+    - 1420
+  label: 蘇風止痛散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d15
+    span:
+    - body
+    - 1420
+    - 1489
+  label: 經來如牛膜片
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d15d4
+    span:
+    - body
+    - 1464
+    - 1489
+  label: 朱雄丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d16
+    span:
+    - body
+    - 1489
+    - 1596
+  label: 經來下肉胞
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d16d4
+    span:
+    - body
+    - 1548
+    - 1596
+  label: 十全大補湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d17
+    span:
+    - body
+    - 1596
+    - 1680
+  label: 經來吊陰痛不可忍
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d17d4
+    span:
+    - body
+    - 1630
+    - 1680
+  label: 川楝湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d18
+    span:
+    - body
+    - 1680
+    - 1744
+  label: 經來小便痛如刀割
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d18d4
+    span:
+    - body
+    - 1711
+    - 1744
+  label: 牛膝湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d19
+    span:
+    - body
+    - 1744
+    - 1825
+  label: 經來未盡潮熱氣痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d19d4
+    span:
+    - body
+    - 1800
+    - 1825
+  label: 莪朮散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d20
+    span:
+    - body
+    - 1825
+    - 1869
+  label: 經來盡作痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d20d4
+    span:
+    - body
+    - 1845
+    - 1869
+  label: 四物湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d21
+    span:
+    - body
+    - 1869
+    - 1918
+  label: 經來脅氣痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d21d4
+    span:
+    - body
+    - 1891
+    - 1918
+  label: 四物元胡湯加入前方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d22
+    span:
+    - body
+    - 1918
+    - 1981
+  label: 經來小腹有血塊痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d22d4
+    span:
+    - body
+    - 1963
+    - 1981
+  label: 元胡散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d23
+    span:
+    - body
+    - 1981
+    - 2050
+  label: 經來遍身疼痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d23d4
+    span:
+    - body
+    - 2009
+    - 2050
+  label: 烏藥順氣散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d24
+    span:
+    - body
+    - 2050
+    - 2184
+  label: 觸經傷寒
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d24d4
+    span:
+    - body
+    - 2090
+    - 2151
+  label: 五積散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d24d5
+    span:
+    - body
+    - 2151
+    - 2184
+  label: 附五積交加散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d25
+    span:
+    - body
+    - 2184
+    - 2261
+  label: 逆經
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d25d4
+    span:
+    - body
+    - 2220
+    - 2261
+  label: 犀角地黃湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d26
+    span:
+    - body
+    - 2261
+    - 2373
+  label: 經從口鼻出咳嗽氣急
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d26d4
+    span:
+    - body
+    - 2311
+    - 2330
+  label: 紅花散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d26d5
+    span:
+    - body
+    - 2330
+    - 2373
+  label: 冬花散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d27
+    span:
+    - body
+    - 2373
+    - 2447
+  label: 每月經來二三次
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d27d4
+    span:
+    - body
+    - 2421
+    - 2447
+  label: 膠艾湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d28
+    span:
+    - body
+    - 2447
+    - 2561
+  label: 經來狂言如見鬼神
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d28d4
+    span:
+    - body
+    - 2494
+    - 2525
+  label: 麝香散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d28d5
+    span:
+    - body
+    - 2525
+    - 2561
+  label: 茯神丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d29
+    span:
+    - body
+    - 2561
+    - 2608
+  label: 經來嘔吐
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d29d4
+    span:
+    - body
+    - 2584
+    - 2608
+  label: 丁香散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d30
+    span:
+    - body
+    - 2608
+    - 2736
+  label: 經來飲食後即吐
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d30d4
+    span:
+    - body
+    - 2645
+    - 2697
+  label: 烏梅丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d30d5
+    span:
+    - body
+    - 2697
+    - 2736
+  label: 九仙奪命丹
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d31
+    span:
+    - body
+    - 2736
+    - 2800
+  label: 經來遍身浮腫
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d31d4
+    span:
+    - body
+    - 2754
+    - 2800
+  label: 木香調胃散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d32
+    span:
+    - body
+    - 2800
+    - 2857
+  label: 經來泄瀉
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d32d4
+    span:
+    - body
+    - 2832
+    - 2857
+  label: 理中湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d33
+    span:
+    - body
+    - 2857
+    - 2911
+  label: 經前經後痢疾
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d33d4
+    span:
+    - body
+    - 2897
+    - 2911
+  label: 甘連湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d34
+    span:
+    - body
+    - 2911
+    - 2971
+  label: 經來大小便俱出
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d34d4
+    span:
+    - body
+    - 2943
+    - 2971
+  label: 分利五苓散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d35
+    span:
+    - body
+    - 2971
+    - 3080
+  label: 經來常咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d35d4
+    span:
+    - body
+    - 3005
+    - 3056
+  label: 茯苓補心湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d35d5
+    span:
+    - body
+    - 3056
+    - 3080
+  label: 雞蘇丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d36
+    span:
+    - body
+    - 3080
+    - 3138
+  label: 經阻腹大如鼓
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d37
+    span:
+    - body
+    - 3138
+    - 3245
+  label: 經來小便出白蟲
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d37d4
+    span:
+    - body
+    - 3180
+    - 3223
+  label: 迫蟲丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d37d5
+    span:
+    - body
+    - 3223
+    - 3245
+  label: 建中散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d38
+    span:
+    - body
+    - 3245
+    - 3274
+  label: 經來吐蛔蟲
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d39
+    span:
+    - body
+    - 3274
+    - 3326
+  label: 經來潮熱旬日不思飲食
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d39d4
+    span:
+    - body
+    - 3307
+    - 3326
+  label: 鴨血酒
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d40
+    span:
+    - body
+    - 3326
+    - 3430
+  label: 室女經閉
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d40d4
+    span:
+    - body
+    - 3390
+    - 3430
+  label: 通經丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6d41
+    span:
+    - body
+    - 3430
+    - 3567
+  label: 血山崩
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d41d4
+    span:
+    - body
+    - 3463
+    - 3532
+  label: 十灰散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei020_jc_003-d6.d41d5
+    span:
+    - body
+    - 3532
+    - 3567
+  label: 雞子湯
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.h1s1
+    span:
+    - body
+    - 0
+    - 3830
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7d2
+    span:
+    - body
+    - 2
+    - 284
+  label: 原經水不調
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7d3
+    span:
+    - body
+    - 284
+    - 570
+  label: 經水不調症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d3d4
+    span:
+    - body
+    - 319
+    - 434
+  label: 開鬱二陳湯
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d3d5
+    span:
+    - body
+    - 434
+    - 503
+  label: 三補丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d3d6
+    span:
+    - body
+    - 503
+    - 570
+  label: 地骨皮湯
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7d4
+    span:
+    - body
+    - 570
+    - 758
+  label: 過期經行症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d4d4
+    span:
+    - body
+    - 602
+    - 702
+  label: 蒼莎丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d4d5
+    span:
+    - body
+    - 702
+    - 758
+  label: 芎歸湯
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7d5
+    span:
+    - body
+    - 758
+    - 836
+  label: 一月經再行症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7d6
+    span:
+    - body
+    - 836
+    - 934
+  label: 數月行經症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d6d4
+    span:
+    - body
+    - 877
+    - 934
+  label: 蒼莎導痰丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7d7
+    span:
+    - body
+    - 934
+    - 1212
+  label: 經期或前或後症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d7d4
+    span:
+    - body
+    - 963
+    - 997
+  label: 加減八物湯
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d7d5
+    span:
+    - body
+    - 997
+    - 1212
+  label: 烏雞丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7d8
+    span:
+    - body
+    - 1212
+    - 1298
+  label: 行經腰腹作痛症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d8d4
+    span:
+    - body
+    - 1238
+    - 1298
+  label: 桃仁四物湯
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7d9
+    span:
+    - body
+    - 1298
+    - 1325
+  label: 經後腹痛症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7d10
+    span:
+    - body
+    - 1325
+    - 1418
+  label: 經水多少症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7d11
+    span:
+    - body
+    - 1418
+    - 1486
+  label: 驗經色症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d11d4
+    span:
+    - body
+    - 1435
+    - 1486
+  label: 四物連附湯
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7d12
+    span:
+    - body
+    - 1486
+    - 1890
+  label: 浮腫症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d12d4
+    span:
+    - body
+    - 1550
+    - 1749
+  label: 調經湯
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d12d5
+    span:
+    - body
+    - 1749
+    - 1890
+  label: 金匱丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7d13
+    span:
+    - body
+    - 1890
+    - 2015
+  label: 原經水不行
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7d14
+    span:
+    - body
+    - 2015
+    - 2489
+  label: 經閉不行症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d14d4
+    span:
+    - body
+    - 2028
+    - 2104
+  label: 加減補中益氣湯
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d14d5
+    span:
+    - body
+    - 2104
+    - 2262
+  label: 四制烏附丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d14d6
+    span:
+    - body
+    - 2262
+    - 2330
+  label: 加減八物柴胡湯
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d14d7
+    span:
+    - body
+    - 2330
+    - 2404
+  label: 四物涼膈散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d14d8
+    span:
+    - body
+    - 2404
+    - 2447
+  label: 柏子仁丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d14d9
+    span:
+    - body
+    - 2447
+    - 2489
+  label: 澤蘭湯
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7d15
+    span:
+    - body
+    - 2489
+    - 2590
+  label: 石瘕症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d15d4
+    span:
+    - body
+    - 2548
+    - 2590
+  label: 溫經湯
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7d16
+    span:
+    - body
+    - 2590
+    - 2688
+  label: 腸覃症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d16d4
+    span:
+    - body
+    - 2648
+    - 2688
+  label: 桂枝桃仁湯
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7d17
+    span:
+    - body
+    - 2688
+    - 2819
+  label: 治崩漏次第
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7d18
+    span:
+    - body
+    - 2819
+    - 3364
+  label: 崩漏症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d18d4
+    span:
+    - body
+    - 2838
+    - 2872
+  label: 加味四物湯
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d18d5
+    span:
+    - body
+    - 2872
+    - 2952
+  label: 十灰散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d18d6
+    span:
+    - body
+    - 2952
+    - 3015
+  label: 地黃湯
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d18d7
+    span:
+    - body
+    - 3015
+    - 3094
+  label: 加味四物湯
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d18d8
+    span:
+    - body
+    - 3094
+    - 3196
+  label: 補中益氣湯
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d18d9
+    span:
+    - body
+    - 3196
+    - 3364
+  label: 鹿角霜丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7d19
+    span:
+    - body
+    - 3364
+    - 3436
+  label: 原赤白帶
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7d20
+    span:
+    - body
+    - 3436
+    - 3514
+  label: 赤白帶症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7d21
+    span:
+    - body
+    - 3514
+    - 3674
+  label: 附孕婦白帶
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d21d2
+    span:
+    - body
+    - 3519
+    - 3607
+  label: 芩連芷柏丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d21d3
+    span:
+    - body
+    - 3607
+    - 3674
+  label: 補宮丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7d22
+    span:
+    - body
+    - 3674
+    - 3750
+  label: 白淫症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d22d4
+    span:
+    - body
+    - 3703
+    - 3750
+  label: 加味二陳湯
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7d23
+    span:
+    - body
+    - 3750
+    - 3830
+  label: 白濁症
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei020_jc_004-d7.d23d4
+    span:
+    - body
+    - 3787
+    - 3830
+  label: 分清飲
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ei020_jc_005-d8.h1s1
+    span:
+    - body
+    - 0
+    - 3557
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ei020_jc_005-d8d2
+    span:
+    - body
+    - 2
+    - 841
+  label: 保胎法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ei020_jc_005-d8.d2d14
+    span:
+    - body
+    - 389
+    - 473
+  label: 安胎散
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ei020_jc_005-d8.d2d15
+    span:
+    - body
+    - 473
+    - 562
+  label: 金匱當歸丸
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ei020_jc_005-d8.d2d16
+    span:
+    - body
+    - 562
+    - 666
+  label: 達生湯
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ei020_jc_005-d8.d2d17
+    span:
+    - body
+    - 666
+    - 813
+  label: 催生益母丸
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ei020_jc_005-d8.d2d18
+    span:
+    - body
+    - 813
+    - 841
+  label: 施氏催生丹
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ei020_jc_005-d8d3
+    span:
+    - body
+    - 841
+    - 1539
+  label: 保產撮要
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ei020_jc_005-d8.d3d10
+    span:
+    - body
+    - 1418
+    - 1472
+  label: 加味芎歸湯
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ei020_jc_005-d8.d3d11
+    span:
+    - body
+    - 1472
+    - 1539
+  label: 佛手散
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ei020_jc_005-d8d4
+    span:
+    - body
+    - 1539
+    - 2783
+  label: 竹林寺真傳生化湯論
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ei020_jc_005-d8.d4d6
+    span:
+    - body
+    - 2631
+    - 2783
+  label: 生化湯
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ei020_jc_005-d8d5
+    span:
+    - body
+    - 2783
+    - 3008
+  label: 胞衣不下
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ei020_jc_005-d8.d5d4
+    span:
+    - body
+    - 2899
+    - 2937
+  label: 益母丸
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ei020_jc_005-d8.d5d5
+    span:
+    - body
+    - 2937
+    - 3008
+  label: 如神膏
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ei020_jc_005-d8d6
+    span:
+    - body
+    - 3008
+    - 3557
+  label: 產後調護法
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9.h1s1
+    span:
+    - body
+    - 0
+    - 3910
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9d2
+    span:
+    - body
+    - 2
+    - 694
+  label: 產後便覽
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9d3
+    span:
+    - body
+    - 694
+    - 978
+  label: 產後厥
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9.d3d4
+    span:
+    - body
+    - 751
+    - 978
+  label: 加參生化理中湯
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9d4
+    span:
+    - body
+    - 978
+    - 1406
+  label: 產後氣短汗喘痰嗽聲重
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9.d4d4
+    span:
+    - body
+    - 1062
+    - 1212
+  label: 加味生化湯
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9.d4d5
+    span:
+    - body
+    - 1212
+    - 1256
+  label: 加參生化湯
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9.d4d6
+    span:
+    - body
+    - 1256
+    - 1330
+  label: 二加生化湯
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9.d4d7
+    span:
+    - body
+    - 1330
+    - 1406
+  label: 加味補中益氣湯
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9d5
+    span:
+    - body
+    - 1406
+    - 1589
+  label: 產後頭痛發熱氣急喘汗
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9.d5d4
+    span:
+    - body
+    - 1465
+    - 1589
+  label: 加參生化萬安湯
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9d6
+    span:
+    - body
+    - 1589
+    - 1717
+  label: 血虛極產畢即汗
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9.d6d4
+    span:
+    - body
+    - 1621
+    - 1717
+  label: 調衛止汗湯
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9d7
+    span:
+    - body
+    - 1717
+    - 1897
+  label: 產後氣血竭汗多形色脫
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9.d7d4
+    span:
+    - body
+    - 1784
+    - 1897
+  label: 調衛參耆湯
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9d8
+    span:
+    - body
+    - 1897
+    - 2130
+  label: 產後氣短似喘
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9.d8d4
+    span:
+    - body
+    - 2013
+    - 2130
+  label: 加味生化補中益氣湯
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9d9
+    span:
+    - body
+    - 2130
+    - 2322
+  label: 產後汗多口噤筋搐類傷寒
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9.d9d4
+    span:
+    - body
+    - 2196
+    - 2322
+  label: 三加生化湯
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9d10
+    span:
+    - body
+    - 2322
+    - 2540
+  label: 產後崩脫暈厥
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9.d10d4
+    span:
+    - body
+    - 2416
+    - 2540
+  label: 清神返魂湯
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9d11
+    span:
+    - body
+    - 2540
+    - 2778
+  label: 產後崩泄
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9.d11d4
+    span:
+    - body
+    - 2576
+    - 2671
+  label: 升舉大補湯
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9.d11d5
+    span:
+    - body
+    - 2671
+    - 2778
+  label: 參耆蓮子湯
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9d12
+    span:
+    - body
+    - 2778
+    - 3018
+  label: 產後瀉
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9.d12d6
+    span:
+    - body
+    - 2899
+    - 3018
+  label: 加味參苓生化湯
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9d13
+    span:
+    - body
+    - 3018
+    - 3684
+  label: 產後赤白痢
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9.d13d4
+    span:
+    - body
+    - 3220
+    - 3307
+  label: 四加生化湯
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9.d13d5
+    span:
+    - body
+    - 3307
+    - 3572
+  label: 加連生化湯
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9.d13d6
+    span:
+    - body
+    - 3572
+    - 3684
+  label: 五皮飲
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9d14
+    span:
+    - body
+    - 3684
+    - 3910
+  label: 產後嘔不納穀
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9.d14d4
+    span:
+    - body
+    - 3720
+    - 3784
+  label: 安胃行血湯
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9.d14d5
+    span:
+    - body
+    - 3784
+    - 3873
+  label: 加味六和湯
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ei020_jc_006-d9.d14d6
+    span:
+    - body
+    - 3873
+    - 3910
+  label: 調中和胃湯
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10.h1s1
+    span:
+    - body
+    - 0
+    - 2929
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10d2
+    span:
+    - body
+    - 2
+    - 174
+  label: 產後傷食服消食藥致滿悶
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10.d2d4
+    span:
+    - body
+    - 144
+    - 174
+  label: 長生活命丹
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10d3
+    span:
+    - body
+    - 174
+    - 336
+  label: 產後類外感
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10.d3d4
+    span:
+    - body
+    - 268
+    - 336
+  label: 加味生化湯
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10d4
+    span:
+    - body
+    - 336
+    - 1046
+  label: 產後服消耗藥增滿悶積久成脹
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10.d4d4
+    span:
+    - body
+    - 711
+    - 807
+  label: 救誤益氣湯
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10.d4d5
+    span:
+    - body
+    - 807
+    - 923
+  label: 養生化滯湯
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10.d4d6
+    span:
+    - body
+    - 923
+    - 1046
+  label: 丹溪三消丸
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10d5
+    span:
+    - body
+    - 1046
+    - 1354
+  label: 產後感風寒嗽鼻塞聲重惡寒
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10.d5d4
+    span:
+    - body
+    - 1184
+    - 1245
+  label: 加味生化湯
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10.d5d5
+    span:
+    - body
+    - 1245
+    - 1310
+  label: 加味生化湯
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10.d5d6
+    span:
+    - body
+    - 1310
+    - 1354
+  label: 加參寧肺止嗽生化湯
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10d6
+    span:
+    - body
+    - 1354
+    - 1687
+  label: 產後類瘧
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10.d6d4
+    span:
+    - body
+    - 1534
+    - 1588
+  label: 加味生化湯
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10.d6d5
+    span:
+    - body
+    - 1588
+    - 1635
+  label: 參朮湯
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10.d6d6
+    span:
+    - body
+    - 1635
+    - 1687
+  label: 參朮膏
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10d7
+    span:
+    - body
+    - 1687
+    - 1881
+  label: 產後惡露凝結成塊虛症百出
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10.d7d4
+    span:
+    - body
+    - 1837
+    - 1881
+  label: 加減補中益氣湯
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10d8
+    span:
+    - body
+    - 1881
+    - 2105
+  label: 產後大便不通
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10.d8d4
+    span:
+    - body
+    - 1962
+    - 2089
+  label: 助血調腸湯
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10.d8d5
+    span:
+    - body
+    - 2089
+    - 2105
+  label: 煎蜜棗法
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10d9
+    span:
+    - body
+    - 2105
+    - 2439
+  label: 產後妄言妄見
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10.d9d6
+    span:
+    - body
+    - 2269
+    - 2364
+  label: 加味安神生化湯
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10.d9d7
+    span:
+    - body
+    - 2364
+    - 2439
+  label: 益榮安神湯
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10d10
+    span:
+    - body
+    - 2439
+    - 2675
+  label: 產後少乳
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10.d10d4
+    span:
+    - body
+    - 2452
+    - 2610
+  label: 通脈湯
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10.d10d5
+    span:
+    - body
+    - 2610
+    - 2675
+  label: 參朮地黃湯
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10d11
+    span:
+    - body
+    - 2675
+    - 2929
+  label: 產後乳癰
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10.d11d4
+    span:
+    - body
+    - 2687
+    - 2767
+  label: 栝蔞乳沒散
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10.d11d5
+    span:
+    - body
+    - 2767
+    - 2880
+  label: 十全大補銀花湯
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ei020_jc_007-d10.d11d6
+    span:
+    - body
+    - 2880
+    - 2929
+  label: 補中去毒散
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei020_jc_008-d11.h1s1
+    span:
+    - body
+    - 0
+    - 2219
+  label: 卷八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ei020_jc_008-d11d2
+    span:
+    - body
+    - 2
+    - 2219
+  label: 方症補遺
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei020_jc_008-d11.d2d4
+    span:
+    - body
+    - 81
+    - 179
+  label: 補心湯
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei020_jc_008-d11.d2d5
+    span:
+    - body
+    - 179
+    - 285
+  label: 正經養血湯
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei020_jc_008-d11.d2d6
+    span:
+    - body
+    - 285
+    - 352
+  label: 行經紅花湯
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei020_jc_008-d11.d2d7
+    span:
+    - body
+    - 352
+    - 478
+  label: 通經散
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei020_jc_008-d11.d2d8
+    span:
+    - body
+    - 478
+    - 658
+  label: 加味調經丸
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei020_jc_008-d11.d2d9
+    span:
+    - body
+    - 658
+    - 952
+  label: 烏雞丸
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei020_jc_008-d11.d2d10
+    span:
+    - body
+    - 952
+    - 1114
+  label: 補中養胃湯
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei020_jc_008-d11.d2d11
+    span:
+    - body
+    - 1114
+    - 1175
+  label: 涼血湯
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei020_jc_008-d11.d2d12
+    span:
+    - body
+    - 1175
+    - 1221
+  label: 養血平肝散
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei020_jc_008-d11.d2d13
+    span:
+    - body
+    - 1221
+    - 1288
+  label: 加味四物丸
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei020_jc_008-d11.d2d14
+    span:
+    - body
+    - 1288
+    - 1471
+  label: 九霄丸
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei020_jc_008-d11.d2d15
+    span:
+    - body
+    - 1471
+    - 1645
+  label: 帶症經驗方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei020_jc_008-d11.d2d16
+    span:
+    - body
+    - 1645
+    - 1679
+  label: 丹溪經驗方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei020_jc_008-d11.d2d17
+    span:
+    - body
+    - 1679
+    - 1740
+  label: 又方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei020_jc_008-d11.d2d18
+    span:
+    - body
+    - 1740
+    - 1802
+  label: 清金養血湯
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei020_jc_008-d11.d2d19
+    span:
+    - body
+    - 1802
+    - 2031
+  label: 養榮丸
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ei020_jc_008-d11.d2d20
+    span:
+    - body
+    - 2031
+    - 2219
+  label: 加味濟坤大造丸
+  type: section
+  level: 3
+hash: sha256:de94ee401429a68124090205d72e3bcdb36837dc8ad11334e5e4091f664c114b
